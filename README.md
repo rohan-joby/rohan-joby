@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-📌 I am **Rohan Joby**, I'm a passionate software engineer specializing in web application development and API resources in the fintech domain. 
-Experienced with JavaScript (ES6), React + Node ecosystem, and TypeScript. 
-Currently a Software Engineer at Wednesday Solutions, contributing to backend APIs, frontend dashboards, and working with MySQL and Sequelize. Exploring AWS and continuously expanding skill set.
+📌 I am **Rohan Joby**, 
+- I'm a passionate software engineer specializing in web application development and API resources in the fintech domain. 
+- Experienced with JavaScript (ES6), React + Node ecosystem, and TypeScript. 
+- Currently a Software Engineer at Wednesday Solutions, contributing to backend APIs, frontend dashboards, and working with MySQL and Sequelize.
+- Exploring AWS and continuously expanding my skill set.
 
 📌 Skills: JavaScript, TypeScript, ReactJS, Redux, Node.js, Hapi, Sequelize, HTML, CSS, Git, Github, AWS
 
