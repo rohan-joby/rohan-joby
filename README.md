@@ -1,21 +1,10 @@
 ### Hi there 👋
 
-📌 I am **Rohan Joby**, currently learning Web Developement and building exciting real-world projects.
+📌 I am **Rohan Joby**, I'm a passionate software engineer specializing in web application development and API resources in the fintech domain. 
+Experienced with JavaScript (ES6), React + Node ecosystem, and TypeScript. 
+Currently a Software Engineer at Wednesday Solutions, contributing to backend APIs, frontend dashboards, and working with MySQL and Sequelize. Exploring AWS and continuously expanding skill set.
 
-📌 I am `extremely motivated` at learning to excel in my skills. `Consistency` and `passion for my work` are the key factors towards my success.
-
-📌 My technical skills include :
-
-
- - 💻 *Languages:*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> 
-
- - 💻 *Front-End Development:* <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://img.icons8.com/ultraviolet/480/000000/react.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/redux.png"/> 
-
- - 💻 *Back-End Development:*  <img align="center" height="30" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/java-web-token.png"/>
-
- 
-<!--📌 Here's a link to my [Portfolio](https://ankitabagale.com) -->
-
+📌 Skills: JavaScript, TypeScript, ReactJS, Redux, Node.js, Hapi, Sequelize, HTML, CSS, Git, Github, AWS
 
 📌 Contact Me :
 
